@@ -1,0 +1,119 @@
+section{
+    display:flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: center;
+}
+h1{
+    font-size: 60px;
+    margin-left: 20px;
+  
+}
+.title2{
+    color: rgba(0, 0, 255, 0.548);
+}
+.header-text{
+    font-size: 20px;
+}
+.head-text-bg{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(253, 72, 0), rgb(151, 68, 54));
+    border-image-slice: 1;
+}
+.header-title{
+    margin-top: 200px;
+}
+.head-image{
+    width: 700px;
+    height: 800px;
+    margin-top: -10px;
+
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+body{
+    font-family: 'Andika', sans-serif;
+
+}
+.service{
+    text-align: center;
+    
+}
+.service2{
+
+    color: orange;
+}
+h2{
+    font-size: 35px; 
+}
+.service-image{
+    width: 100px;
+    height: 100px;
+}
+.onpage{
+    border-radius: 20px;
+    background-color: rgb(222, 224, 224);
+    margin-right: 25px;
+    padding: 20px;
+}
+.offpage{
+    border-radius: 20px;
+    background-color: rgb(255, 232, 240);
+    margin-right: 25px;
+    padding: 20px;
+}
+.technical{
+    border-radius: 20px;
+    background-color: rgb(255, 243, 209);
+    margin-right: 25px;
+    padding: 20px;
+}
+.competitor{
+    width: 450px;
+    height: 450px;
+}
+.competitor-text{
+    font-size: 25px;
+}
+.competitor-class{
+    margin-top: 120px;
+}
+.com-margin{
+    margin-left: 100px;
+}
+.keyword{
+    margin-right: 100px;
+}
+.contact{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+}
+.contact-text{
+    font-size: 25px;
+}
+.contactform{
+    font-size: 45px;
+}
+.footer{
+    background-color: #000000;
+    margin: 0pt;
+    margin-top: 50px;
+
+}
+.footerh1{
+    text-align: center;
+    color: tomato;
+    
+}
+.footertext{
+    text-align: center;
+    color: white;
+
+}
