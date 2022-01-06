@@ -91,12 +91,12 @@ h2{
     margin-right: 100px;
 }
 .contact{
-    margin-left: 25%;
-    margin-right: 25%;
+
     margin-top: 15px;
+    align: center;
 }
 .contact-text{
-    font-size: 25px;
+    font-size: 17px;
 }
 .contactform{
     font-size: 45px;
@@ -105,15 +105,32 @@ h2{
     background-color: #000000;
     margin: 0pt;
     margin-top: 50px;
+   
 
 }
 .footerh1{
     text-align: center;
     color: tomato;
     
+    
 }
 .footertext{
     text-align: center;
     color: white;
 
+}
+.contact-image{
+    border-radius: 20px;
+    background-color: rgb(255, 243, 209);
+   
+    padding: 20px;
+    width: 450px;
+    height: 450px;
+}
+.contact-class{
+    margin-top: 20px;
+}
+.contact{
+    width: 450px;
+    height: 450px;
 }
